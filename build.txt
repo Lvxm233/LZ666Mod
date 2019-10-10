@@ -1,0 +1,9 @@
+﻿displayName = 417Mod
+author = 417
+version = 1.0
+hideResources = false
+hideCode = false
+includeSource = true
+includePDB = true
+homepage = 
+buildIgnore = *.csproj, *.sln, obj\*, bin\*, *.suo, *.user, .git\*, .vs\*, Libraries\*
